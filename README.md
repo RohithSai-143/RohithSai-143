@@ -4,7 +4,7 @@
 
 <img src="http://raw.githubusercontent.com/Luk4x/Luk4x/refs/heads/main/images/analysis.gif" alt="Dino" width="200" height="150" align="right">
 
-- 🔭 I’m currently working on **I'm learning cybersecurity and web development, and working on a Blockchain-based Identity Management project.**
+- 🔭 **I'm learning cybersecurity and web development, and working on Blockchain-based Identity Management project.**
 
 - 🌱 I’m currently learning **Cybersecurity fundamentals, Bash scripting.**
 
